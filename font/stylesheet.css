@@ -1,0 +1,288 @@
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-HeavyItalic.eot');
+    src: url('Muller-Trial-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-HeavyItalic.woff2') format('woff2'),
+        url('Muller-Trial-HeavyItalic.woff') format('woff'),
+        url('Muller-Trial-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial Fat';
+    src: url('Muller-Trial-FatItalic.eot');
+    src: url('Muller-Trial-FatItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-FatItalic.woff2') format('woff2'),
+        url('Muller-Trial-FatItalic.woff') format('woff'),
+        url('Muller-Trial-FatItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial Hairline';
+    src: url('Muller-Trial-HairlineItalic.eot');
+    src: url('Muller-Trial-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-HairlineItalic.woff2') format('woff2'),
+        url('Muller-Trial-HairlineItalic.woff') format('woff'),
+        url('Muller-Trial-HairlineItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-MediumItalic.eot');
+    src: url('Muller-Trial-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-MediumItalic.woff2') format('woff2'),
+        url('Muller-Trial-MediumItalic.woff') format('woff'),
+        url('Muller-Trial-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-LightItalic.eot');
+    src: url('Muller-Trial-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-LightItalic.woff2') format('woff2'),
+        url('Muller-Trial-LightItalic.woff') format('woff'),
+        url('Muller-Trial-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-ExtraBoldItalic.eot');
+    src: url('Muller-Trial-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-ExtraBoldItalic.woff2') format('woff2'),
+        url('Muller-Trial-ExtraBoldItalic.woff') format('woff'),
+        url('Muller-Trial-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-ExtraBold.eot');
+    src: url('Muller-Trial-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-ExtraBold.woff2') format('woff2'),
+        url('Muller-Trial-ExtraBold.woff') format('woff'),
+        url('Muller-Trial-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Heavy.eot');
+    src: url('Muller-Trial-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Heavy.woff2') format('woff2'),
+        url('Muller-Trial-Heavy.woff') format('woff'),
+        url('Muller-Trial-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Medium.eot');
+    src: url('Muller-Trial-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Medium.woff2') format('woff2'),
+        url('Muller-Trial-Medium.woff') format('woff'),
+        url('Muller-Trial-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Light.eot');
+    src: url('Muller-Trial-Light.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Light.woff2') format('woff2'),
+        url('Muller-Trial-Light.woff') format('woff'),
+        url('Muller-Trial-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial Fat';
+    src: url('Muller-Trial-Fat.eot');
+    src: url('Muller-Trial-Fat.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Fat.woff2') format('woff2'),
+        url('Muller-Trial-Fat.woff') format('woff'),
+        url('Muller-Trial-Fat.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial Hairline';
+    src: url('Muller-Trial-Hairline.eot');
+    src: url('Muller-Trial-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Hairline.woff2') format('woff2'),
+        url('Muller-Trial-Hairline.woff') format('woff'),
+        url('Muller-Trial-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Bold.eot');
+    src: url('Muller-Trial-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Bold.woff2') format('woff2'),
+        url('Muller-Trial-Bold.woff') format('woff'),
+        url('Muller-Trial-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Thin.eot');
+    src: url('Muller-Trial-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Thin.woff2') format('woff2'),
+        url('Muller-Trial-Thin.woff') format('woff'),
+        url('Muller-Trial-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial UltraBlack';
+    src: url('Muller-Trial-UltraBlackItalic.eot');
+    src: url('Muller-Trial-UltraBlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-UltraBlackItalic.woff2') format('woff2'),
+        url('Muller-Trial-UltraBlackItalic.woff') format('woff'),
+        url('Muller-Trial-UltraBlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-ThinItalic.eot');
+    src: url('Muller-Trial-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-ThinItalic.woff2') format('woff2'),
+        url('Muller-Trial-ThinItalic.woff') format('woff'),
+        url('Muller-Trial-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial UltraBlack';
+    src: url('Muller-Trial-UltraBlack.eot');
+    src: url('Muller-Trial-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-UltraBlack.woff2') format('woff2'),
+        url('Muller-Trial-UltraBlack.woff') format('woff'),
+        url('Muller-Trial-UltraBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-UltraLightItalic.eot');
+    src: url('Muller-Trial-UltraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-UltraLightItalic.woff2') format('woff2'),
+        url('Muller-Trial-UltraLightItalic.woff') format('woff'),
+        url('Muller-Trial-UltraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-BlackItalic.eot');
+    src: url('Muller-Trial-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-BlackItalic.woff2') format('woff2'),
+        url('Muller-Trial-BlackItalic.woff') format('woff'),
+        url('Muller-Trial-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Black.eot');
+    src: url('Muller-Trial-Black.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Black.woff2') format('woff2'),
+        url('Muller-Trial-Black.woff') format('woff'),
+        url('Muller-Trial-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-RegularItalic.eot');
+    src: url('Muller-Trial-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-RegularItalic.woff2') format('woff2'),
+        url('Muller-Trial-RegularItalic.woff') format('woff'),
+        url('Muller-Trial-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-UltraLight.eot');
+    src: url('Muller-Trial-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-UltraLight.woff2') format('woff2'),
+        url('Muller-Trial-UltraLight.woff') format('woff'),
+        url('Muller-Trial-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-Regular.eot');
+    src: url('Muller-Trial-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-Regular.woff2') format('woff2'),
+        url('Muller-Trial-Regular.woff') format('woff'),
+        url('Muller-Trial-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muller-Trial';
+    src: url('Muller-Trial-BoldItalic.eot');
+    src: url('Muller-Trial-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Muller-Trial-BoldItalic.woff2') format('woff2'),
+        url('Muller-Trial-BoldItalic.woff') format('woff'),
+        url('Muller-Trial-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
